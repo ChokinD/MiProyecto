@@ -1,0 +1,45 @@
+header .titulo {
+    font-size: 50px;
+}
+
+h1 {
+    color: rgb(220, 66, 66);
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h2 {
+    color: rgb(220, 66, 66);
+    background-color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(239, 106, 106);
+}
+
+header {
+    text-align: center;
+}
+
+body {
+    background-color: rgba(11, 11, 11, 0.91);
+    background-position: center;
+}
+
+p,
+ul {
+    text-align: justify;
+    font-family: "Mulish", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: white;
+    background-color: rgba(92, 65, 65, 0.901);
+}
+
+header .logo {
+    float: inline-end;
+    height: 115px;
+}
